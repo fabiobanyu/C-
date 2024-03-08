@@ -1,2 +1,2 @@
-# C-
+# C++
 Isinya kodingan c++
